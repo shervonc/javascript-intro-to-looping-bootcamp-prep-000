@@ -9,6 +9,7 @@ function forLoop(array) {
   }
   return array
 }
+
 function whileLoop {
   while (n>0)
   {console.log(n--)}

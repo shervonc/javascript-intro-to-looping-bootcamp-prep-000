@@ -27,7 +27,7 @@ function incrementVariable() {
 function doWhileLoop(array) {
   
   do {
-    array.pop()
+    console.log("I run once regardless")
   } while (array.length>0 && maybeTrue())
   return array
   

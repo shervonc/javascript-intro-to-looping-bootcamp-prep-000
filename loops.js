@@ -29,7 +29,7 @@ function doWhileLoop(array) {
 }
   do {
     console.log("I run once regardless")
-  } while (incrementVariable() < 0)
+  } while (incrementVariable() < 5)
   return array
   
 }
